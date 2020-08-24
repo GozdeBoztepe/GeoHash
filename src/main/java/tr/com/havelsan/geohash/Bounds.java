@@ -1,3 +1,5 @@
+package tr.com.havelsan.geohash;
+
 public class Bounds {
     private Coordinates sw;
     private Coordinates ne;

@@ -1,6 +1,9 @@
 import io.qameta.allure.*;
 import org.junit.Assert;
 import org.junit.Test;
+import tr.com.havelsan.geohash.Bounds;
+import tr.com.havelsan.geohash.Coordinates;
+import tr.com.havelsan.geohash.GeoHash;
 
 
 public class GeoHashTest {

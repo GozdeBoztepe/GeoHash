@@ -1,1 +1,1 @@
-# GeoHash
+# tr.com.havelsan.geohash.GeoHash

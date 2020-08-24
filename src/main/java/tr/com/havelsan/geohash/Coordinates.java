@@ -1,3 +1,5 @@
+package tr.com.havelsan.geohash;
+
 public class Coordinates {
     private double lat;
     private double lon;
