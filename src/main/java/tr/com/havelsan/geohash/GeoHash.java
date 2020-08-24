@@ -1,3 +1,5 @@
+package tr.com.havelsan.geohash;
+
 import java.math.BigDecimal;
 
 public class GeoHash {

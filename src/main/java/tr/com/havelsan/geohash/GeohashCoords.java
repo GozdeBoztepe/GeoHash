@@ -1,3 +1,5 @@
+package tr.com.havelsan.geohash;
+
 public class GeohashCoords {
     private String lat;
     private String lon;

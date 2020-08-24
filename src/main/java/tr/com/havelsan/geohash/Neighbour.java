@@ -1,3 +1,5 @@
+package tr.com.havelsan.geohash;
+
 public class Neighbour {
     private GeohashCoords north;
     private GeohashCoords south;
